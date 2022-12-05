@@ -31,7 +31,7 @@ from.addEventListener('input', e => {
 })
 
 const baseUrl =
-  'https://api.coingecko.com/api/v3/coins/adon/market_chart/range?vs_currency=eur'
+  'https://api.coingecko.com/api/v3/coins/adonis/market_chart/range?vs_currency=eur'
 
 const submitHandler = async event => {
   event.preventDefault()
